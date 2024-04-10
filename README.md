@@ -1,0 +1,1 @@
+This repository contains the data file "Var.dta" and code file "Code.do" associated with the paper "The Janus-faced role of renewable energy development in global carbon reduction under renewable energy policies".
